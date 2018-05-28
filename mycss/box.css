@@ -1,0 +1,145 @@
+.searchTire
+{
+	
+	border-radius: 7px;
+	background: #a9b4bb;
+	height: 200px;
+	width: auto;
+	margin: auto;
+	margin-top: 20px;
+	border-color: black; 
+    border-width: 1px; 
+    border-style: solid; 
+    opacity: 0.8;
+    
+  }
+.left-column
+{
+	padding-left: 6%;
+	padding-top: 10px;
+	width: 20%;
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+
+	
+}
+.right-column
+{
+	padding-left: 3%;
+	padding-bottom: 3%;
+	padding-top: 10px;
+	width: auto;
+	
+	
+
+	
+}
+.twoSelectionInTheMiddle {
+	wid
+}
+.parametersOfTire
+{	
+	
+	width: auto;
+	padding-left: 20%;
+	font-size: 16px;
+	color: #212121;
+	
+}
+#wrap {
+    background: #e7e7e7;
+    padding: 40px;
+    text-align: center;
+    width: auto;  
+}
+
+#left, #right {
+     background: #ccc;
+     display: inline-block;
+     padding: 20px;   
+}
+.select
+{
+overflow:hidden;
+   width:90px;
+   height: 35px;
+   -moz-border-radius: 9px 9px 9px 9px;
+   -webkit-border-radius: 9px 9px 9px 9px;
+   border-radius: 9px 9px 9px 9px;
+   background: #ffffff url("http://i62.tinypic.com/15xvbd5.png") no-repeat scroll 319px center;
+   
+}
+.select1
+{
+overflow:hidden;
+   width:120px;
+   height: 24px;
+   -moz-border-radius: 9px 9px 9px 9px;
+   -webkit-border-radius: 9px 9px 9px 9px;
+   border-radius: 9px 9px 9px 9px;
+   background: #ffffff url("http://i62.tinypic.com/15xvbd5.png") no-repeat scroll 319px center;
+  
+}
+.header-select-tire
+{
+	background-color: none;
+	border-radius: 7px;
+	font-size: 18px;
+	height: 25px;
+}
+.position-top-parameters
+{
+	margin-top: 15px;
+}
+.table-parameters
+{
+	margin-top: 50px;
+}
+
+.buttonFindLeft
+{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin-bottom: 11px;
+}
+.select-mark
+{
+	margin-top: 10px;
+	margin-right: 5px;
+}
+.select-model
+{
+	margin-top: 10px;
+	margin-right: 5px;
+}
+.select-modification
+{
+	margin-top: 10px;
+	margin-right: 5px;
+}
+.mark-position
+{
+	position: absolute;
+	left: auto;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+
+#myform {
+
+    padding: 5px;
+    margin: 2%;
+}
+
+.qty {
+    width: 40px;
+    height: 25px;
+    text-align: center;
+}
+input.qtyplus { width:25px; height:25px;}
+input.qtyminus { width:25px; height:25px;}
